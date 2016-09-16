@@ -1,0 +1,54 @@
+
+h2 { text-align:  center;
+
+
+
+	font-size: 50px;
+
+	text-shadow: 2px 2px 0 white,
+	4px 4px 0 black
+
+}
+
+h1 { color: black;
+
+}
+
+.bloc { text-align: center;
+	margin-top  :80px;
+
+}
+
+
+img { justify-content: flex-end; 
+
+
+}
+
+
+.bloc-header { 
+	display: flex;
+
+	justify-content : space-between ;
+}
+
+
+
+li {
+
+	list-style: none;
+	font-size: 20px ;
+	font-style: oblique;
+}
+
+
+h3 { color: black;
+	font-size: 30px;
+	border: solid #FA8072;
+
+	
+
+
+
+
+}
